@@ -1,0 +1,36 @@
+$color1: Green;
+$color2: blue;
+$color3:yellow;
+
+
+header{
+
+    background-image: url(/Terra-Web-Site/imgenes/terra_header.jpeg);
+    height: 400px;
+    background-repeat: no-repeat;
+}
+
+nav{
+margin: auto;
+background: $color1;
+ ul{
+    background-color: $color3;
+    list-style-type: none;
+    
+    li{
+        font-size: 30px;
+        float: left;
+        margin: 5px;
+        padding: 20px;
+    }
+ }
+}
+
+header{
+.div-header{
+
+    
+}
+ 
+}
+
